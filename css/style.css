@@ -1,0 +1,71 @@
+body {
+  font-family: sans-serif;
+  color: #444;
+  border-top: 15px solid lightseagreen;
+  margin: 0;
+}
+
+.container {
+  width: 1200;
+  margin: 0 auto;
+}
+
+.main-header {
+  background-color: #f7f7f7;
+  padding: 20px 40px;
+  margin-bottom: 50px;
+}
+
+.skate-type {
+  font-size: 45;
+  color: lightseagreen;
+  margin-bottom: 0;
+}
+
+h1,
+h2,
+h2 {
+  color: lightseagreen;
+}
+
+h1 {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-style: italic;
+  text-align: center;
+}
+
+.about-quality {
+  font-size: 23;
+  margin-top: 40;
+  margin-bottom: 20;
+}
+
+.product-style {
+  font-size: 23;
+  margin-top: 40;
+  margin-bottom: 20;
+}
+
+.product-sizes {
+  font-size: 18;
+  margin-top: 20;
+  margin-bottom: 18;
+}
+
+.add-cart {
+  background-color: lightseagreen
+  border: none;
+  color: lightseagreen;
+  font-size: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 15px;
+  width: 100%;
+  border-top: 4px solid lightseagreen;
+}
+
+.add-cart:hover {
+  color: black;
+  background-color: #fff;
+}
